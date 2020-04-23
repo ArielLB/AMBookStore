@@ -2,6 +2,9 @@
 
 ## by: Ariel Elbahar and Moses Corcias
 
+Link to Project:
+https://am-book-store.herokuapp.com/
+
 ### About this project...
 
 the am book store is an e-commerce web app for books. right now there is only us as admins so only we can actually sell stuff. 
